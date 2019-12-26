@@ -1,7 +1,6 @@
 import React from 'react'
 
-function NavLounge() {
-    
+function Nav() {
 
     return (
         <div>
@@ -10,4 +9,4 @@ function NavLounge() {
     )
 }
 
-export default NavLounge;
+export default Nav;
